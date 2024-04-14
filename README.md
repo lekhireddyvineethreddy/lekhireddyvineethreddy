@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Redux,JavaScript,HTML,CSS,Bootstrap**
 
-- 💬 Ask me about **React,Redux,Javascript**
+- 💬 Ask me about **React.js,Redux,Next.js,Javascript**
 
 - 📫 How to reach me **lekhireddyvineeth@gmail.com**
 
